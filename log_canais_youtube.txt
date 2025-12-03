@@ -1,0 +1,14 @@
+2025-12-01 21:12:31,247 - INFO - ====== WebDriver manager ======
+2025-12-01 21:12:32,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-01 21:12:32,304 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-01 21:12:32,423 - INFO - Driver [C:\Users\nynce\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-01 21:12:32,424 - INFO - Iniciando coleta de dados do canal: botcity_br
+2025-12-01 21:12:37,617 - INFO - Canal: @botcity_br | Inscritos: 1,26 mil inscritos | Vídeos: 52 vídeos
+2025-12-01 21:12:42,800 - INFO - Iniciando coleta de dados do canal: botcity-dev
+2025-12-01 21:12:47,908 - INFO - Canal: @botcity-dev | Inscritos: 1,58 mil inscritos | Vídeos: 24 vídeos
+2025-12-01 21:12:53,073 - INFO - Iniciando coleta de dados do canal: youtube
+2025-12-01 21:12:59,007 - INFO - Canal: @YouTube | Inscritos: 44,3 mi de inscritos | Vídeos: 1,2 mil vídeos
+2025-12-01 21:13:04,244 - INFO - Iniciando coleta de dados do canal: github
+2025-12-01 21:13:10,395 - INFO - Canal: @GitHub | Inscritos: 562 mil inscritos | Vídeos: 2,5 mil vídeos
+2025-12-01 21:13:15,572 - INFO - Execução finalizada.
+2025-12-01 21:13:15,572 - INFO - Total canais: 4 | Canais com sucesso: 4 | Canais com falha: 0
